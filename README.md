@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=3957ki" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3957ki&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3957ki&layout=compact&exclude_repo=react"/>
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
